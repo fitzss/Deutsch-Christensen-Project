@@ -24,6 +24,7 @@ explanations, so the explanation of that regularity would itself be a law
 of nature, or a consequence of one. And so, again, everything that is
 not forbidden by laws of nature is achievable, given the right
 knowledge." - Deutsch
+**Clayton** ->
 
 **Where Capabilities Reside**
 Our research suggests that three factors affect what an
